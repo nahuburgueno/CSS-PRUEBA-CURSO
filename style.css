@@ -1,0 +1,44 @@
+/* Estilo general para el cuerpo de las páginas */
+body {
+    font-family: Arial, sans-serif; /* Cambia la familia de fuentes */
+    font-size: 16px; /* Cambia el tamaño de la fuente */
+  }
+  
+  /* Estilo para la etiqueta header */
+  header {
+    background-color: #4CAF50; /* Cambia el color de fondo del header */
+  }
+  
+  /* Estilo para la etiqueta nav */
+  nav {
+    background-color: #333; /* Cambia el color de fondo del nav */
+  }
+  
+  /* Estilo para la etiqueta main */
+  main {
+    background-color: #f4f4f4; /* Cambia el color de fondo del main */
+    font-size: 18px; /* Cambia el tamaño de la fuente del main */
+  }
+  
+  /* Estilo para la etiqueta footer */
+  footer {
+    background-color: #222; /* Cambia el color de fondo del footer */
+  }
+  
+  /* Estilo para la etiqueta li */
+  li {
+    display: inline-block; /* Cambia la visualización de los elementos li */
+    width: 150px; /* Cambia la anchura de los elementos li */
+  }
+  
+  /* Estilo para la etiqueta h1 */
+  h1 {
+    text-align: center; /* Cambia la alineación del texto en el h1 */
+    font-family: 'Georgia', serif; /* Cambia la familia de fuentes del h1 */
+    color: #333; /* Cambia el color del texto en el h1 */
+  }
+  
+  /* Estilo para la etiqueta p */
+  p {
+    line-height: 1.6; /* Cambia la altura de línea en los párrafos */
+  }
